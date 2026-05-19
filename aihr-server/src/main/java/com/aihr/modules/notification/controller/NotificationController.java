@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.notification.controller;
+package com.aihr.modules.notification.controller;
 
 import cn.dev33.satoken.stp.StpUtil;
 import com.baomidou.mybatisplus.core.metadata.IPage;

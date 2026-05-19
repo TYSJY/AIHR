@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.provider;
+package com.aihr.modules.ai.provider;
 
 import com.aihr.common.exception.BusinessException;
 import com.aihr.modules.ai.entity.AIConfig;

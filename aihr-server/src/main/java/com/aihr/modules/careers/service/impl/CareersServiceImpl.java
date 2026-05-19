@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.careers.service.impl;
+package com.aihr.modules.careers.service.impl;
 
 import cn.hutool.json.JSONUtil;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;

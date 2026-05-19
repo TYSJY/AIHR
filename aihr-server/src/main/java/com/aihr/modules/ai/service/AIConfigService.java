@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.service;
+package com.aihr.modules.ai.service;
 
 import com.aihr.modules.ai.dto.AIConfigDTO;
 import com.aihr.modules.ai.entity.AIConfig;

@@ -1,4 +1,4 @@
-﻿package com.aihr.common.config;
+package com.aihr.common.config;
 
 import cn.dev33.satoken.interceptor.SaInterceptor;
 import cn.dev33.satoken.router.SaRouter;

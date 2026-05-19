@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.careers.dto;
+package com.aihr.modules.careers.dto;
 
 import lombok.Data;
 

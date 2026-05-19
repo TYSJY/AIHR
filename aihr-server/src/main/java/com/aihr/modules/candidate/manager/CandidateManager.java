@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.candidate.manager;
+package com.aihr.modules.candidate.manager;
 
 import cn.dev33.satoken.stp.StpUtil;
 import com.aihr.common.exception.BusinessException;

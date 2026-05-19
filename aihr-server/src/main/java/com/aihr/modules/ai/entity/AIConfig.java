@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.entity;
+package com.aihr.modules.ai.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

@@ -1,4 +1,4 @@
-﻿package com.aihr.common.exception;
+package com.aihr.common.exception;
 
 import cn.dev33.satoken.exception.NotLoginException;
 import cn.dev33.satoken.exception.NotPermissionException;

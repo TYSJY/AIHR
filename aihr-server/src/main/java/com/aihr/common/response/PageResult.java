@@ -1,4 +1,4 @@
-﻿package com.aihr.common.response;
+package com.aihr.common.response;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import lombok.Data;

@@ -1,4 +1,4 @@
-﻿package com.aihr.common.storage;
+package com.aihr.common.storage;
 
 import com.aihr.common.storage.impl.LocalFileStorageService;
 import com.aihr.common.storage.impl.MinioFileStorageService;

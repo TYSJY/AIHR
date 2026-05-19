@@ -1,4 +1,4 @@
-﻿package com.aihr.common.manager;
+package com.aihr.common.manager;
 
 import com.aihr.common.exception.BusinessException;
 import com.aihr.common.response.ResultCode;

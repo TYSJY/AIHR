@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.talent.controller;
+package com.aihr.modules.talent.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;

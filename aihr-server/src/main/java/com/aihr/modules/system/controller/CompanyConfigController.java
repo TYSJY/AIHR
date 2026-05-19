@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.controller;
+package com.aihr.modules.system.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.modules.system.entity.Config;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.controller;
+package com.aihr.modules.system.controller;
 
 import cn.dev33.satoken.stp.StpUtil;
 import com.aihr.common.response.R;

@@ -1,4 +1,4 @@
-﻿package com.aihr.common.response;
+package com.aihr.common.response;
 
 import lombok.Getter;
 

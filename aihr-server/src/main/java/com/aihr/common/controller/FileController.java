@@ -1,4 +1,4 @@
-﻿package com.aihr.common.controller;
+package com.aihr.common.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.common.service.FileService;

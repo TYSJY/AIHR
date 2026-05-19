@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.job.entity;
+package com.aihr.modules.job.entity;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;

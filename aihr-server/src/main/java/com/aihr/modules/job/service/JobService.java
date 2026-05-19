@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.job.service;
+package com.aihr.modules.job.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.modules.job.dto.JobDTO;

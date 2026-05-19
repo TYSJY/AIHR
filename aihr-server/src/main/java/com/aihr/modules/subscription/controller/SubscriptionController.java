@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.subscription.controller;
+package com.aihr.modules.subscription.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.modules.subscription.dto.SubscriptionInfo;

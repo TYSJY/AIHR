@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.auth.service.impl;
+package com.aihr.modules.auth.service.impl;
 
 import cn.dev33.satoken.stp.StpUtil;
 import cn.hutool.crypto.digest.BCrypt;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.service.impl;
+package com.aihr.modules.system.service.impl;
 
 import com.aihr.common.exception.BusinessException;
 import com.aihr.modules.system.entity.Menu;

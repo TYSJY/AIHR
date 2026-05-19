@@ -1,4 +1,4 @@
-﻿package com.aihr.common.config;
+package com.aihr.common.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

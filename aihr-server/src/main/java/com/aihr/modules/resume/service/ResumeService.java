@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.service;
+package com.aihr.modules.resume.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.modules.resume.dto.ResumeQuery;

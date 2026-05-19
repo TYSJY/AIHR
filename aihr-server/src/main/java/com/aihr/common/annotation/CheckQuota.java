@@ -1,4 +1,4 @@
-﻿package com.aihr.common.annotation;
+package com.aihr.common.annotation;
 
 import java.lang.annotation.*;
 

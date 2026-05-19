@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.service.impl;
+package com.aihr.modules.ai.service.impl;
 
 import cn.hutool.core.bean.BeanUtil;
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;

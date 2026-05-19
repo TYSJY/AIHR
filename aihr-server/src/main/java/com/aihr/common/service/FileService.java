@@ -1,4 +1,4 @@
-﻿package com.aihr.common.service;
+package com.aihr.common.service;
 
 import com.aihr.common.storage.FileStorageService;
 import lombok.RequiredArgsConstructor;

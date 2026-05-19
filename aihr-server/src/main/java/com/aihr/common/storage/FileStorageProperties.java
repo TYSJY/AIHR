@@ -1,4 +1,4 @@
-﻿package com.aihr.common.storage;
+package com.aihr.common.storage;
 
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;

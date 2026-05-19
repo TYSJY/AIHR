@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.provider;
+package com.aihr.modules.ai.provider;
 
 import com.aihr.modules.ai.dto.ChatMessage;
 import com.aihr.modules.ai.dto.ResumeParseResult;

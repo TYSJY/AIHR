@@ -1,4 +1,4 @@
-﻿package com.aihr;
+package com.aihr;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -20,10 +20,7 @@ public class AIHRApplication {
         SpringApplication.run(AIHRApplication.class, args);
         System.out.println("""
             
-             ___    ___  __  __  ____    
-            / _ |  / _/ / / / / / __ \   
-           / __ | _\ \ / /_/ / / /_/ /   
-          /_/ |_|/___/ \____/  \____/    
+            AIHR ZHIPIN SERVER
             
             AIHR智聘启动成功!
             API文档: http://localhost:8080/doc.html

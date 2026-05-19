@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.subscription.dto;
+package com.aihr.modules.subscription.dto;
 
 import lombok.Data;
 

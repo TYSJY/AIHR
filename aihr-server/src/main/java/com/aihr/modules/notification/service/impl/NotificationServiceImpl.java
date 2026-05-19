@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.notification.service.impl;
+package com.aihr.modules.notification.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;

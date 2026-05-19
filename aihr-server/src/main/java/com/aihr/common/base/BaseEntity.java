@@ -1,4 +1,4 @@
-﻿package com.aihr.common.base;
+package com.aihr.common.base;
 
 import com.baomidou.mybatisplus.annotation.*;
 import lombok.Data;

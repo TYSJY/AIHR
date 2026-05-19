@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.dto;
+package com.aihr.modules.resume.dto;
 
 import com.aihr.common.base.BasePageQuery;
 import io.swagger.v3.oas.annotations.media.Schema;

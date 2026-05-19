@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.controller;
+package com.aihr.modules.system.controller;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.common.base.BasePageQuery;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.dashboard.controller;
+package com.aihr.modules.dashboard.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.modules.candidate.mapper.CandidateMapper;

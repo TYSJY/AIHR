@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.subscription.service.impl;
+package com.aihr.modules.subscription.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.aihr.common.exception.BusinessException;

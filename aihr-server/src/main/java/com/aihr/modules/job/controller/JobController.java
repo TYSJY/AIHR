@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.job.controller;
+package com.aihr.modules.job.controller;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.common.annotation.CheckQuota;

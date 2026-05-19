@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.controller;
+package com.aihr.modules.resume.controller;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.common.annotation.CheckQuota;

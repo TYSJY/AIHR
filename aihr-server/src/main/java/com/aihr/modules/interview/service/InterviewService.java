@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.interview.service;
+package com.aihr.modules.interview.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.modules.interview.dto.InterviewDTO;

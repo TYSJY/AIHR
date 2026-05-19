@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.interview.dto;
+package com.aihr.modules.interview.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotNull;

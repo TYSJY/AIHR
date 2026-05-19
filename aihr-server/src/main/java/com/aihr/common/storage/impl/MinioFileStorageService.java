@@ -1,4 +1,4 @@
-﻿package com.aihr.common.storage.impl;
+package com.aihr.common.storage.impl;
 
 import com.aihr.common.exception.BusinessException;
 import com.aihr.common.storage.FileStorageProperties;

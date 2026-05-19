@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.notification.service;
+package com.aihr.modules.notification.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.common.base.BasePageQuery;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.auth.dto;
+package com.aihr.modules.auth.dto;
 
 import com.aihr.modules.subscription.dto.SubscriptionInfo;
 import io.swagger.v3.oas.annotations.media.Schema;

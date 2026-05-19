@@ -65,6 +65,9 @@ export function HomePage() {
             <Button type="primary" size="large" icon={<ArrowRightOutlined />}>
               <Link to="/careers">查看开放职位</Link>
             </Button>
+            <Button size="large" icon={<LineChartOutlined />}>
+              <Link to="/ai">体验AI流程</Link>
+            </Button>
             <Button size="large" icon={<MessageOutlined />}>
               <Link to="/contact">联系 QQ {brand.qq}</Link>
             </Button>
@@ -84,8 +87,8 @@ export function HomePage() {
       <section className="section-band">
         <div className="section-heading">
           <span>Core Capabilities</span>
-          <h2>外部招聘入口先变成你的产品</h2>
-          <p>第一版聚焦候选人看到的官网、职位列表和投递流程，让访问者从第一屏开始识别 AIHR智聘。</p>
+          <h2>官网、职位与 AI 招聘能力统一成你的产品</h2>
+          <p>候选人看到的是专业入口，客户看到的是 AI简历、AI匹配、AI面试和招聘闭环。</p>
         </div>
         <div className="capability-grid">
           {capabilities.map((item) => (

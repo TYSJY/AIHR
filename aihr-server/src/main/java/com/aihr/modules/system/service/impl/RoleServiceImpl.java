@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.service.impl;
+package com.aihr.modules.system.service.impl;
 
 import cn.dev33.satoken.stp.StpUtil;
 import cn.hutool.core.bean.BeanUtil;

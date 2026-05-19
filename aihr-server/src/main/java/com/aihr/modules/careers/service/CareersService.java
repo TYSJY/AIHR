@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.careers.service;
+package com.aihr.modules.careers.service;
 
 import com.aihr.modules.careers.dto.ApplyDTO;
 import com.aihr.modules.careers.dto.CompanyInfoVO;

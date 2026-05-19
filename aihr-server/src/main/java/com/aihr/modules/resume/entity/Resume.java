@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.entity;
+package com.aihr.modules.resume.entity;
 
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;

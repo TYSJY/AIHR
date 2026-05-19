@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.candidate.service;
+package com.aihr.modules.candidate.service;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.modules.candidate.dto.*;

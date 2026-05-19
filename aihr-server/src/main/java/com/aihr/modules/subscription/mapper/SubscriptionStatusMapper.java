@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.subscription.mapper;
+package com.aihr.modules.subscription.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.subscription.entity.SubscriptionStatus;

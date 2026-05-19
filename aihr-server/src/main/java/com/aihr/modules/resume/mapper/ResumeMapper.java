@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.mapper;
+package com.aihr.modules.resume.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.resume.entity.Resume;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.dto;
+package com.aihr.modules.ai.dto;
 
 import lombok.Data;
 

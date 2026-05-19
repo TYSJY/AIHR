@@ -3,6 +3,7 @@ import { Button, Layout } from 'antd'
 import { Link, NavLink, Route, Routes } from 'react-router-dom'
 import { brand } from './config/brand'
 import { CareersPage } from './pages/CareersPage'
+import { AiDemoPage } from './pages/AiDemoPage'
 import { ContactPage } from './pages/ContactPage'
 import { HomePage } from './pages/HomePage'
 import { JobDetailPage } from './pages/JobDetailPage'
@@ -23,6 +24,7 @@ export function RootApp() {
 
         <nav className="top-nav" aria-label="主导航">
           <NavLink to="/">首页</NavLink>
+          <NavLink to="/ai">AI能力</NavLink>
           <NavLink to="/careers">职位</NavLink>
           <NavLink to="/contact">联系</NavLink>
         </nav>
@@ -35,6 +37,8 @@ export function RootApp() {
       <Content>
         <Routes>
           <Route path="/" element={<HomePage />} />
+          <Route path="/ai" element={<AiDemoPage />} />
+          <Route path="/ai-demo" element={<AiDemoPage />} />
           <Route path="/careers" element={<CareersPage />} />
           <Route path="/careers/:jobId" element={<JobDetailPage />} />
           <Route path="/contact" element={<ContactPage />} />

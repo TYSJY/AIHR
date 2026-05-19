@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.auth.service;
+package com.aihr.modules.auth.service;
 
 import com.aihr.modules.auth.dto.LoginRequest;
 import com.aihr.modules.auth.dto.LoginResponse;

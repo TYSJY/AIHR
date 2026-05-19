@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.interview.mapper;
+package com.aihr.modules.interview.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.interview.entity.Interview;

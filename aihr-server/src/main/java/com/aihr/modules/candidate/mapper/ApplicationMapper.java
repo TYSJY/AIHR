@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.candidate.mapper;
+package com.aihr.modules.candidate.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;

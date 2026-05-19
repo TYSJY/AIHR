@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.controller;
+package com.aihr.modules.ai.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.modules.ai.config.AIProviderEnum;

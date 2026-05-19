@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.interview.controller;
+package com.aihr.modules.interview.controller;
 
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.aihr.common.response.PageResult;

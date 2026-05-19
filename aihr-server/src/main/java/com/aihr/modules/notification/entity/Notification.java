@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.notification.entity;
+package com.aihr.modules.notification.entity;
 
 import com.baomidou.mybatisplus.annotation.IdType;
 import com.baomidou.mybatisplus.annotation.TableId;

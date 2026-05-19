@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.dto;
+package com.aihr.modules.system.dto;
 
 import com.aihr.common.base.BasePageQuery;
 import io.swagger.v3.oas.annotations.media.Schema;

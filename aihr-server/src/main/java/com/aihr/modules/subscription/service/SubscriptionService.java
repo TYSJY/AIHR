@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.subscription.service;
+package com.aihr.modules.subscription.service;
 
 import com.aihr.modules.subscription.dto.SubscriptionInfo;
 import com.aihr.modules.subscription.entity.SubscriptionPlan;

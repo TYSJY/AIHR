@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.candidate.dto;
+package com.aihr.modules.candidate.dto;
 
 import com.aihr.common.base.BasePageQuery;
 import io.swagger.v3.oas.annotations.media.Schema;

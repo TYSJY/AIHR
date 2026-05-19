@@ -1,4 +1,4 @@
-﻿package com.aihr;
+package com.aihr;
 
 import cn.hutool.crypto.digest.BCrypt;
 

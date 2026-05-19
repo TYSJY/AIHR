@@ -1,4 +1,4 @@
-﻿package com.aihr.common.aspect;
+package com.aihr.common.aspect;
 
 import com.aihr.common.annotation.CheckQuota;
 import com.aihr.common.annotation.RequireFeature;

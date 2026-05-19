@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.mapper;
+package com.aihr.modules.system.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.system.entity.Menu;

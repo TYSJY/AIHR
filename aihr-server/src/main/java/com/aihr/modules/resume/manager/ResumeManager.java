@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.resume.manager;
+package com.aihr.modules.resume.manager;
 
 import cn.hutool.json.JSONUtil;
 import com.aihr.common.exception.BusinessException;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.provider.impl;
+package com.aihr.modules.ai.provider.impl;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.http.HttpResponse;

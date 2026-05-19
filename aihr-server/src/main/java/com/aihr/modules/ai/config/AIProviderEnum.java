@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.config;
+package com.aihr.modules.ai.config;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

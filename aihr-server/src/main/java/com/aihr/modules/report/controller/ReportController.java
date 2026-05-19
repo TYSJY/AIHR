@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.report.controller;
+package com.aihr.modules.report.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.aihr.common.response.R;

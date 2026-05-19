@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.interview.manager;
+package com.aihr.modules.interview.manager;
 
 import com.aihr.common.exception.BusinessException;
 import com.aihr.common.manager.AIManager;

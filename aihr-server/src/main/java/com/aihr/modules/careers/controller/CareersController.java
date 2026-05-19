@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.careers.controller;
+package com.aihr.modules.careers.controller;
 
 import com.aihr.common.response.R;
 import com.aihr.modules.careers.dto.ApplyDTO;

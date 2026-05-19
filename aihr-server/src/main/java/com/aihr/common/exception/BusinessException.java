@@ -1,4 +1,4 @@
-﻿package com.aihr.common.exception;
+package com.aihr.common.exception;
 
 import com.aihr.common.response.ResultCode;
 import lombok.Getter;

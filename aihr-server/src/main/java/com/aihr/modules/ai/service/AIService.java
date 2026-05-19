@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.service;
+package com.aihr.modules.ai.service;
 
 import com.aihr.modules.ai.dto.MatchResult;
 import com.aihr.modules.ai.dto.ResumeParseResult;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.system.service;
+package com.aihr.modules.system.service;
 
 import com.aihr.modules.system.entity.Menu;
 

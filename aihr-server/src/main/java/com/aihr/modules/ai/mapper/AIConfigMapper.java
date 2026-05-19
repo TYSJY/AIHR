@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.mapper;
+package com.aihr.modules.ai.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.ai.entity.AIConfig;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.ai.dto;
+package com.aihr.modules.ai.dto;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 import jakarta.validation.constraints.NotBlank;

@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.auth.controller;
+package com.aihr.modules.auth.controller;
 
 import cn.dev33.satoken.stp.SaTokenInfo;
 import cn.dev33.satoken.stp.StpUtil;

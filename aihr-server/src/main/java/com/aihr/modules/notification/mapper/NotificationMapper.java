@@ -1,4 +1,4 @@
-﻿package com.aihr.modules.notification.mapper;
+package com.aihr.modules.notification.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.aihr.modules.notification.entity.Notification;
