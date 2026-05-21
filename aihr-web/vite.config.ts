@@ -12,6 +12,7 @@ export default defineConfig({
   },
   server: {
     port: 3000,
+    allowedHosts: ['.lhr.life', '.localhost.run', '.loca.lt'],
     proxy: {
       '/api': {
         target: 'http://localhost:8080',
@@ -33,4 +34,3 @@ export default defineConfig({
     },
   },
 })
-
